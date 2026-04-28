@@ -86,5 +86,3 @@ Contributions, issues, and feature requests are welcome!
 
 ## 👨‍💻 Author
 Built with ❤️ by **Sachin**.
-
-*(Note: DevStats is an independent project and is not affiliated with LeetCode, GeeksForGeeks, or CodeChef.)*
